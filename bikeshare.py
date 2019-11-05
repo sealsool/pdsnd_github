@@ -49,7 +49,7 @@ def get_filters():
 
     print('-'*40)
     return city, month, day
-# This will display 5 rows
+
 def display(df):
     index = 0
     while True :
