@@ -5,11 +5,11 @@
 Github project
 
 ### Description
-Describe what your project is about and what it does
+It's time to put what you've learned about version control and GitHub into practice! In this project, you'll be simulating a realistic workflow to refactor your previous BikeShare project using Git
 
 ### Files used
-Include the files used
+Bikeshare
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+www.github.com/houssam2293
 
