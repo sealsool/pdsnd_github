@@ -53,9 +53,6 @@ def get_filters():
     return city, month, day
 
 # display 5 rows to the user
-'''
-Descriptive statistics are correctly computed and used to answer the questions posed about the data. Raw data is displayed upon request by the user in this manner: Script should prompt the user if they want to see 5 lines of raw data, display that data if the answer is 'yes', and continue these prompts and displays until the user says 'no'.
-'''
 
 def display(df):
     index = 0
