@@ -10,6 +10,5 @@ It's time to put what you've learned about version control and GitHub into pract
 ### Files used
 Bikeshare
 
-### Credits
-www.github.com/houssam2293
+
 
